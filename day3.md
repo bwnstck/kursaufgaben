@@ -46,7 +46,3 @@
   - button, checkbox, image, radio, color, email, date
 - Was macht man mit `select` und `option`?
   - Typisches Dropbdownmenü
-
-```
-
-```
