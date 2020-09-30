@@ -15,9 +15,10 @@
   - `em` für Betonung
   - `i` als Heraushebung des textes z.B. Definition
 - Wie baut man eine `figure` mit einem Bild und Text auf?
+
 ```HTML
     <figure>
-    <img src="/media/cc0-images/elephant-660-480.jpg"
+    <img src="https://media.giphy.com/media/ZvRUls2pbS36w/giphy.gif"
                 alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
     </figure>
@@ -34,8 +35,10 @@
   - `hr`
   - `input`
   - `meta`
-  
-- ## Wofür wird `small` verwendet?
+- Wofür wird `small` verwendet?
+
+  - copyright and legal tex
+
 - Was ist der Unterschied zwischen dem `img`- und dem `picture`-Element?
   - `picture` für verschiednee Quellen bei verschiedenen Bildschirmgrößen
   - `img` für einzelne Bilder
