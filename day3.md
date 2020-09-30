@@ -37,7 +37,7 @@
   - `meta`
 - Wofür wird `small` verwendet?
 
-  - copyright and legal tex
+  - copyright and legal text
 
 - Was ist der Unterschied zwischen dem `img`- und dem `picture`-Element?
   - `picture` für verschiednee Quellen bei verschiedenen Bildschirmgrößen
